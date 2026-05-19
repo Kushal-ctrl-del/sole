@@ -4,7 +4,7 @@ A modern, fully responsive, frontend-only college management portal built using 
 
 ## 🚀 Live Demo
 
-🔗 https://sole-taupe.vercel.app
+🔗 https://sole-sneaks.vercel.app
 
 ---
 
